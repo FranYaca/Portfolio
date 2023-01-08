@@ -212,7 +212,6 @@ display: none;
 .section .article {
     width: 100%;
     min-height: 20vh;
-    background: lightyellow;
     display: flex;
     flex-flow: column nowrap;
     justify-content: center;
