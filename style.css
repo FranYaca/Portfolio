@@ -222,7 +222,7 @@ display: none;
     border-radius: 1em;
 
 }
-.section .a {}
+
 .section .figure{
     width: 100%;
     
@@ -297,7 +297,7 @@ display: none;
     margin: 0 1em;
     list-style: none;
 }
-.about .a{}
+
 .about .a .svg{
     width: 3em;
     height: 3em;
